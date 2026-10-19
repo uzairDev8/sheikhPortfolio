@@ -1,0 +1,15 @@
+.footer {
+  border-top: 1px solid #343a40;
+}
+
+.footer-link {
+  color: #fff;
+  font-size: 1.3rem;
+  text-decoration: none;
+  transition: 0.3s ease;
+}
+
+.footer-link:hover {
+  color: #0d6efd;
+  transform: translateY(-3px);
+}

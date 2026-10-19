@@ -1,0 +1,19 @@
+.skill-item {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  transition: 0.3s ease;
+}
+
+.skill-item:hover {
+  transform: translateY(-5px);
+}
+
+.progress {
+  height: 10px;
+  border-radius: 10px;
+}
+
+.progress-bar {
+  border-radius: 10px;
+}
