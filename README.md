@@ -1,59 +1,66 @@
-# MyPortfolio
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.3.
+# MyPortfolio — Sheikh Uzair
 
-## Development server
+### Angular Frontend Developer
 
-To start a local development server, run:
+Welcome to my personal portfolio! I build modern, responsive, and user-friendly web applications. I'm currently improving my skills in Angular, Node.js, and AI.
+
+## 🌐 Live Demo
+
+**[Visit My Portfolio](https://sheikhuzair-portfolio.netlify.app/)**
+
+## 🚀 Features
+
+- Responsive portfolio website
+- Home and About sections
+- Skills and projects showcase
+- Contact section
+- AI Assistant interface
+- Download CV option
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Angular 21
+- Bootstrap
+- Git & GitHub
+
+## 💻 Run Locally
+
+Clone this repository:
+
+```bash
+git clone https://github.com/uzairDev8/sheikhPortfolio.git
+```
+
+Open the project folder:
+
+```bash
+cd sheikhPortfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the Angular development server:
 
 ```bash
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Open `http://localhost:4200/` in your browser.
 
-## Code scaffolding
+## 👨‍💻 About Me
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+I'm an Angular Frontend Developer passionate about creating clean, responsive, and user-friendly web applications. I'm working toward becoming a Full Stack AI Developer.
 
-```bash
-ng generate component component-name
-```
+## 📬 Connect With Me
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- **GitHub:** [uzairDev8](https://github.com/uzairDev8)
+- **Portfolio:** [sheikhuzair-portfolio.netlify.app](https://sheikhuzair-portfolio.netlify.app/)
